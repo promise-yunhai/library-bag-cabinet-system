@@ -16,6 +16,7 @@
 ![image](https://user-images.githubusercontent.com/79844631/194093801-4c458802-7e73-4383-adce-948a536a05ae.png)
 ![image](https://user-images.githubusercontent.com/79844631/194093815-40bccf52-4888-4182-9c13-6d2e7991b07d.png)
 （4）查询功能：可根据学号、姓名等信息对已添加的记录进行查询，如果未找到，给出相应的提示信息，如果找到，则显示相应的记录信息。
+
 1.按学号查询
 ![image](https://user-images.githubusercontent.com/79844631/194093844-63f4d3fd-258d-45fb-ade2-58f265c61fc9.png)
 2.按姓名
